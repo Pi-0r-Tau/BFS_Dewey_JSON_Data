@@ -7,9 +7,24 @@ Monthly data from BFS_Dewey as JSON
 
 
 
+JSON OBJECT FORMAT:
 
-
-
+```json
+[
+  {
+  "title": "" ,
+  "author": "",
+  "publisher": "",
+  "format": "",
+  "pubDate": "",
+  "isbn": "",
+  "dewey": "",
+  "rrp": "",
+  "link": ""
+  }
+]
+  
+```
 
 
 
