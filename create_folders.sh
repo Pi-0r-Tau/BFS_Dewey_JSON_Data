@@ -7,7 +7,7 @@
 BASE_PATH="/workspaces/BFS_Dewey_JSON_Data/PerDay/2024"
 
 # folders for each month
-for month in January February March April May June July August September October; do
+for month in January February March April May June July August September October November December; do
   mkdir -p "$BASE_PATH/$month"
   echo "Created $BASE_PATH/$month"
 done
