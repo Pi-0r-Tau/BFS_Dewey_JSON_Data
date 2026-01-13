@@ -13,7 +13,7 @@ for month in January February March April May June July August September October
 done
 
 # Create empty daily JSON files for each month
-January (31 days)
+# January (31 days)
 for day in {1..31}; do
   echo "[]" > "$BASE_PATH/January/$day-01-23.json"
 done
