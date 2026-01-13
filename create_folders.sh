@@ -63,13 +63,14 @@ for day in {1..31}; do
   echo "[]" > "$BASE_PATH/October/$day-10-24.json"
 done
 
-# November (30 Days)
-for days in {1..30}; do 
-echo "[]" > "$BASE_PATH/November/$day-10-24.json"
+# November (30 days)
+for day in {1..30}; do
+  echo "[]" > "$BASE_PATH/November/$day-09-24.json"
 done
 
-# December (31 Days)
-for days in {1..31} do
-echo "[]" > "$BASE_PATH/November/$day-10-24.json"
+# December (31 days)
+for day in {1..31}; do
+  echo "[]" > "$BASE_PATH/December/$day-10-24.json"
+done
 
 echo "Folder structure created successfully!"
