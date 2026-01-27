@@ -1,5 +1,5 @@
 # BFS_Dewey_JSON_Data
-Monthly data from BFS_Dewey as JSON.
+Daily data from BFS_Dewey as JSON.
 Books from 000.00 to 800.9999 ddc
 
 # 341,717 Books and counting 
