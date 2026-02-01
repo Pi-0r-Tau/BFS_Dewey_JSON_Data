@@ -12,7 +12,7 @@ Currently complete for data:
 
 
 
-JSON OBJECT FORMAT:
+JSON schema:
 
 ```json
 [
