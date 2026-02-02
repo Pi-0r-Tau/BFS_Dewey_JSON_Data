@@ -47,4 +47,4 @@ JSON schema:
 
 Notes for review:
 
-https://www.brownsbfs.co.uk/Search/Books/Available-NYP?PublicationDate=[YYYY-MM-DD]T00%3a00%3a00.000Z~[YYYY-MM-DD]T00%3a00%3a00.000Z&Dewey=000~800.99999&fq=14120-0524&sort=DeweyAsc
+Search/Books/Available-NYP?PublicationDate=[YYYY-MM-DD]T00%3a00%3a00.000Z~[YYYY-MM-DD]T00%3a00%3a00.000Z&Dewey=000~800.99999&fq=14120-0524&sort=DeweyAsc
