@@ -1,1 +1,178 @@
-[]
+[
+  {
+    "title": "Practical GitOps : Infrastructure Management Using Terraform, AWS, and GitHub Actions",
+    "author": "Salecha, Rohit",
+    "publisher": "Apress",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9781484286722",
+    "dewey": "004.6782",
+    "rrp": "£54.99",
+    "link": "https://www.brownsbfs.co.uk/Product/Salecha-Rohit/Practical-GitOps/9781484286722"
+  },
+  {
+    "title": "Kubernetes Programming with Go : Programming Kubernetes Clients and Operators Using Go and the Kubernetes API",
+    "author": "Martin, Philippe",
+    "publisher": "Apress",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9781484290255",
+    "dewey": "005.3",
+    "rrp": "£54.99",
+    "link": "https://www.brownsbfs.co.uk/Product/Martin-Philippe/Kubernetes-Programming-with-Go/9781484290255"
+  },
+  {
+    "title": "Blockchain - ICBC 2022 : 5th International Conference, Held as part of the Services Conference Federation, SCF 2022, Honolulu, HI, USA, December 10–14, 2022, Proceedings",
+    "author": "Chen, Shiping",
+    "publisher": "Springer International Publishing AG",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9783031234941",
+    "dewey": "005.74",
+    "rrp": "£49.99",
+    "link": "https://www.brownsbfs.co.uk/Product/Chen-Shiping/Blockchain--ICBC-2022/9783031234941"
+  },
+  {
+    "title": "The Catholic Spiritual Journey : Responding to Today's Challenges",
+    "author": "Bacik, James J.",
+    "publisher": "Paulist Press International,U.S.",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9780809156085",
+    "dewey": "248.482",
+    "rrp": "",
+    "link": "https://www.brownsbfs.co.uk/Product/Bacik-James-J/The-Catholic-Spiritual-Journey/9780809156085"
+  },
+  {
+    "title": "Ecology, Liturgy, and the Sacraments",
+    "author": "Irwin, Kevin W.",
+    "publisher": "Paulist Press International,U.S.",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9780809155194",
+    "dewey": "264.0208",
+    "rrp": "",
+    "link": "https://www.brownsbfs.co.uk/Product/Irwin-Kevin-W/Ecology-Liturgy-and-the-Sacraments/9780809155194"
+  },
+  {
+    "title": "Trevor Winchester Swan: life and contribution to economic theory and policy. - Volume I",
+    "author": "Swan, Peter L.",
+    "publisher": "Palgrave Macmillan",
+    "format": "eBook",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9783031137372",
+    "dewey": "330.092",
+    "rrp": "",
+    "link": "https://www.brownsbfs.co.uk/Product/Swan-Peter-L/Trevor-Winchester-Swan-life-and-contribution-to-economic-theory-and-policy/9783031137372"
+  },
+  {
+    "title": "Letters of David Ricardo to Thomas Robert Malthus, 1810-1823",
+    "author": "Ricardo, David",
+    "publisher": "ALPHA EDITION",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9789356718227",
+    "dewey": "330.153",
+    "rrp": "£19.79",
+    "link": "https://www.brownsbfs.co.uk/Product/Ricardo-David/Letters-of-David-Ricardo-to-Thomas-Robert-Malthus-1810-1823/9789356718227"
+  },
+  {
+    "title": "The New Society",
+    "author": "Rathenau, Walther",
+    "publisher": "ALPHA EDITION",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9789356785397",
+    "dewey": "335.5",
+    "rrp": "£17.00",
+    "link": "https://www.brownsbfs.co.uk/Product/Rathenau-Walther/The-New-Society/9789356785397"
+  },
+  {
+    "title": "Veteran and Military Mental Health : A Clinical Manual",
+    "author": "Warner, Christopher H.",
+    "publisher": "Springer International Publishing AG",
+    "format": "Hardback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9783031180088",
+    "dewey": "355.345",
+    "rrp": "",
+    "link": "https://www.brownsbfs.co.uk/Product/Warner-Christopher-H/Veteran-and-Military-Mental-Health/9783031180088"
+  },
+  {
+    "title": "Common Chinese Materia Medica : Volume 5",
+    "author": "Ye, Huagu",
+    "publisher": "Springer Verlag, Singapore",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9789811658907",
+    "dewey": "615.3210951",
+    "rrp": "£119.99",
+    "link": "https://www.brownsbfs.co.uk/Product/Ye-Huagu/Common-Chinese-Materia-Medica/9789811658907"
+  },
+  {
+    "title": "Case-Based Approach to Knee Pain: A Pocket Guide to Pathology, Diagnosis and Management",
+    "author": "Leong, Michelle",
+    "publisher": "Springer International Publishing",
+    "format": "Ebook",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9783031153563",
+    "dewey": "616.72",
+    "rrp": "",
+    "link": "https://www.brownsbfs.co.uk/Product/Leong-Michelle/Case-Based-Approach-to-Knee-Pain-A-Pocket-Guide-to-Pathol/9783031153563"
+  },
+  {
+    "title": "A Case-Based Approach to Knee Pain : A Pocket Guide to Pathology, Diagnosis and Management",
+    "author": "Leong, Michelle",
+    "publisher": "Springer International Publishing AG",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9783031153556",
+    "dewey": "616.72",
+    "rrp": "£109.99",
+    "link": "https://www.brownsbfs.co.uk/Product/Leong-Michelle/A-Case-Based-Approach-to-Knee-Pain/9783031153556"
+  },
+  {
+    "title": "Navigation in Oral and Maxillofacial Surgery : Applications, Advances, and Limitations",
+    "author": "Parhiz, Seyed Alireza",
+    "publisher": "Springer International Publishing AG",
+    "format": "Hardback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9783031062223",
+    "dewey": "617.52059",
+    "rrp": "£129.99",
+    "link": "https://www.brownsbfs.co.uk/Product/Parhiz-Seyed-Alireza/Navigation-in-Oral-and-Maxillofacial-Surgery/9783031062223"
+  },
+  {
+    "title": "SAP S/4HANA Financial Accounting Configuration : Learn Configuration and Development on an S/4 System",
+    "author": "Okungbowa, Andrew",
+    "publisher": "Apress",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9781484289563",
+    "dewey": "657.028554",
+    "rrp": "£54.99",
+    "link": "https://www.brownsbfs.co.uk/Product/Okungbowa-Andrew/SAP-S4HANA-Financial-Accounting-Configuration/9781484289563"
+  },
+  {
+    "title": "Contemporary Kogin-Zashi: Modern Sashiko Beyond Filling in the Gaps",
+    "author": "Bowlsby, Jason",
+    "publisher": "C & T Publishing",
+    "format": "Ebook",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9781644031889",
+    "dewey": "746.440952",
+    "rrp": "",
+    "link": "https://www.brownsbfs.co.uk/Product/Bowlsby-Jason/Contemporary-Kogin-Zashi-Modern-Sashiko-Beyond-Filling-in-the-Gaps/9781644031889"
+  },
+  {
+    "title": "Maria Mitchell : Life, Letters, and Journals",
+    "author": "Mitchell, Maria",
+    "publisher": "ALPHA EDITION",
+    "format": "Paperback / softback",
+    "pubDate": "25 Dec 2022",
+    "isbn": "9789356786325",
+    "dewey": "800",
+    "rrp": "£18.97",
+    "link": "https://www.brownsbfs.co.uk/Product/Mitchell-Maria/Maria-Mitchell/9789356786325"
+  }
+]
