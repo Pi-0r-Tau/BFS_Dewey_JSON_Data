@@ -8,8 +8,7 @@ Currently complete for data:
 
 
 ## Monthly and PerDay
-
-
+Focus on PerDay, monthly to be populated in future update once full daily files for 2016 - 2026
 
 
 JSON schema:
