@@ -4,7 +4,7 @@ Books from 000.00 to 800.9999 ddc
 
 # 663,437 Books and counting 
 Currently complete for data:
-2021-08-01 to 2026-02-10
+2021-07-01 to 2026-02-10
 
 
 ## Monthly and PerDay
