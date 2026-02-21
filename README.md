@@ -4,7 +4,7 @@ Books from 000.00 to 800.9999 ddc
 
 # 676,033 Books and counting 
 Currently complete for data:
-2021-06-01 to 2026-02-10
+2021-05-01 to 2026-02-10
 (YYYY-MM-DD)
 
 
