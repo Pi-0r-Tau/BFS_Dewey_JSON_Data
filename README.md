@@ -2,7 +2,7 @@
 Daily data from BFS_Dewey as JSON.
 Books from 000.00 to 800.9999 ddc
 
-# 714,717 Books and counting 
+# 723,719 Books and counting 
 Currently complete for data:
 2021-02-01 to 2026-02-10
 (YYYY-MM-DD)
